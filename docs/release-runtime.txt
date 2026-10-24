@@ -1,0 +1,27 @@
+﻿      state=PlaybackState {state=PAUSED(2), position=17562, buffered position=60691, speed=0.0, updated=4463272, actions=7340029, custom actions=[], active item id=2, error=null}
+      metadata: size=10, description=Cosmic Drift, Neon Echoes, Ethereal Horizons
+  * Task{72a83c1 #154 type=standard I=audio.aura.aura_audio/.MainActivity U=0 visible=false visibleRequested=false mode=fullscreen translucent=true sz=1}
+    mLastPausedActivity: ActivityRecord{f569ccb u0 audio.aura.aura_audio/.MainActivity t154}
+    * Hist  #0: ActivityRecord{f569ccb u0 audio.aura.aura_audio/.MainActivity t154}
+      packageName=audio.aura.aura_audio processName=audio.aura.aura_audio
+      app=ProcessRecord{9f82616 7025:audio.aura.aura_audio/u0a210}
+      Intent { flg=0x10000000 cmp=audio.aura.aura_audio/.MainActivity }
+      rootOfTask=true task=Task{72a83c1 #154 type=standard I=audio.aura.aura_audio/.MainActivity}
+      mActivityComponent=audio.aura.aura_audio/.MainActivity
+      baseDir=/data/app/~~1N2cXL085gKm-JM6NFGJFA==/audio.aura.aura_audio--h2-Z29RrvUupOhYUm_yxg==/base.apk
+      dataDir=/data/user/0/audio.aura.aura_audio
+      taskDescription: label="Aura Audio" icon=null iconResource=audio.aura.aura_audio/0 iconFilename=null primaryColor=ff7041bf
+      windows=[Window{80afb51 u0 audio.aura.aura_audio/audio.aura.aura_audio.MainActivity}]
+      connections={ConnectionRecord{2ad4501 u0 CR CAPS audio.aura.aura_audio/.PlaybackService:@4e4cae8 flags=0x1001}}
+    Task{72a83c1 #154 type=standard I=audio.aura.aura_audio/.MainActivity}
+      Stop #0: ActivityRecord{f569ccb u0 audio.aura.aura_audio/.MainActivity t154}
+      * Task{72a83c1 #154 type=standard I=audio.aura.aura_audio/.MainActivity U=0 visible=false visibleRequested=false mode=fullscreen translucent=true sz=1}
+        * ActivityRecord{f569ccb u0 audio.aura.aura_audio/.MainActivity t154}
+      Window{80afb51 u0 audio.aura.aura_audio/audio.aura.aura_audio.MainActivity}:
+        mControlTarget=Window{80afb51 u0 audio.aura.aura_audio/audio.aura.aura_audio.MainActivity}
+        (fullscreen) Task{72a83c1 #154 type=standard I=audio.aura.aura_audio/.MainActivity}
+  VisibleActivityProcess:[ ProcessRecord{6322c8e 1046:com.google.android.apps.nexuslauncher/u0a176} ProcessRecord{9f82616 7025:audio.aura.aura_audio/u0a210}]
+      state=PlaybackState {state=BUFFERING(6), position=0, buffered position=0, speed=0.0, updated=4494557, actions=7340027, custom actions=[], active item id=0, error=null}
+      metadata: size=10, description=Amber Horizon, Electron Project, Solaris Echoes
+      state=PlaybackState {state=PLAYING(3), position=9240, buffered position=87408, speed=1.0, updated=4576666, actions=7340027, custom actions=[], active item id=0, error=null}
+      metadata: size=10, description=Amber Horizon, Electron Project, Solaris Echoes

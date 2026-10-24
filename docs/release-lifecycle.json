@@ -1,0 +1,13 @@
+{
+  "activity_present": false,
+  "before": {
+    "state": "PLAYING",
+    "metadata": "Monolith Reflections, Obsidian Ensemble, Stillness in Motion"
+  },
+  "background_after_next": {
+    "state": "PLAYING",
+    "metadata": "Cosmic Drift, Neon Echoes, Ethereal Horizons"
+  },
+  "airplane_mode": "1",
+  "wifi_on": "0"
+}
