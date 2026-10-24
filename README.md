@@ -104,6 +104,3 @@ See [verification report](docs/VERIFICATION.md) for the observed results, restar
 - [Media3 BaseAudioProcessor](https://github.com/androidx/media/blob/1.11.1/libraries/common/src/main/java/androidx/media3/common/audio/BaseAudioProcessor.java).
 
 Bundled fonts retain their SIL Open Font License files under `assets/fonts/`. Original Stitch assets and exports remain in their original directory.
-#   A u r a A u d i o  
- #   A u r a - A u d i o  
- 
