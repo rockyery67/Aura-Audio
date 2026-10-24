@@ -2,6 +2,30 @@
 
 A native Flutter offline music player for Android 8.0+ (API 26). The supplied Stitch exports in `stitch_liquid_glass_music_player/` are preserved as visual references. The app uses Flutter widgets, bundled fonts and icons, and locally extracted album artwork.
 
+## Screenshots
+
+Android emulator captures with locally stored sample music. Click any screenshot to open the full-size image.
+
+### Liquid Glass · Dark
+
+| Home | Now Playing | Equalizer |
+|:---:|:---:|:---:|
+| <a href="docs/screenshots/glass-dark-home.png"><img src="docs/screenshots/glass-dark-home.png" width="240" alt="Liquid Glass Dark Home with local albums, recently played music, and the mini-player"></a> | <a href="docs/screenshots/glass-dark-player.png"><img src="docs/screenshots/glass-dark-player.png" width="240" alt="Liquid Glass Dark Now Playing with embedded album artwork and playback controls"></a> | <a href="docs/screenshots/glass-dark-eq.png"><img src="docs/screenshots/glass-dark-eq.png" width="240" alt="Liquid Glass Dark equalizer with native DSP controls, frequency response, and preamp"></a> |
+
+### Classic · Light
+
+| Library | Queue | Settings |
+|:---:|:---:|:---:|
+| <a href="docs/screenshots/classic-light-library.png"><img src="docs/screenshots/classic-light-library.png" width="240" alt="Classic Light library with songs, albums, artists, folders, playlists, favorites, and history"></a> | <a href="docs/screenshots/classic-light-queue.png"><img src="docs/screenshots/classic-light-queue.png" width="240" alt="Classic Light Up next queue with local tracks, reorder handles, and remove controls"></a> | <a href="docs/screenshots/classic-light-settings.png"><img src="docs/screenshots/classic-light-settings.png" width="240" alt="Classic Light Settings with music folders, library rescanning, appearance, and playback preferences"></a> |
+
+### More theme options
+
+| Liquid Glass · Light | Classic · Dark |
+|:---:|:---:|
+| <a href="docs/screenshots/glass-light-home.png"><img src="docs/screenshots/glass-light-home.png" width="240" alt="Home in the Liquid Glass Light theme"></a> | <a href="docs/screenshots/classic-dark-home.png"><img src="docs/screenshots/classic-dark-home.png" width="240" alt="Home in the Classic Dark theme"></a> |
+
+Browse [all theme and screen captures](docs/screenshots/).
+
 ## Run and build
 
 Validated toolchain: Flutter 3.47.0 / Dart 3.13.0, Android SDK, and Android Studio's bundled JDK. Development dependency resolution needs internet access. The installed release app does not.
